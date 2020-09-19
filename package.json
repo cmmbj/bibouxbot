@@ -1,0 +1,15 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "Juste pour tester wsh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error:a no test specified\" && exit 1"
+  },
+  "author": "Camille",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0"
+  }
+}
